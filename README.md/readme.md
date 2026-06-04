@@ -271,7 +271,7 @@ The AI-Assisted Threat Intelligence Dashboard successfully combines threat intel
 
 ### Threat Analysis
 
-![Threat Analysis]([screenshots/threatanalysis.png](https://github.com/Aaditya0901/ai-assisted-threat-cyber-intelligence-dashboard/blob/main/screenshots/threat-analysis.png))
+![Threat Analysis]((https://github.com/Aaditya0901/ai-assisted-threat-cyber-intelligence-dashboard/blob/main/screenshots/threat-analysis.png))
 
 ### AI Generated Risk Summary
 
