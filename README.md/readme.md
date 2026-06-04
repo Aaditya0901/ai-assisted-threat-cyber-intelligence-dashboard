@@ -260,3 +260,23 @@ AI Summary:
 ## Conclusion
 
 The AI-Assisted Threat Intelligence Dashboard successfully combines threat intelligence APIs, artificial intelligence, database management, and modern web technologies to provide an efficient platform for identifying and monitoring potentially malicious IP addresses. The project demonstrates practical implementation of cybersecurity concepts, REST APIs, database integration, and AI-assisted analysis.
+
+---
+
+## Screenshots
+
+### Dashboard Overview
+
+![Dashboard](screenshots/dashboard.png)
+
+### Threat Analysis
+
+![Threat Analysis](screenshots/threatanalysis.png)
+
+### AI Generated Risk Summary
+
+![AI Summary](screenshots/ai-summary.png)
+
+
+
+
